@@ -1,2 +1,7 @@
-# mlsysdesign-cian
-Project Repository for ML System Design Course
+# CIAN Project for ML System Design Course @ ODS.ai
+Репозиторий для проектной работы в рамках курса ML System Design от ods.ai.
+
+Краткое название проекта: CIAN
+Состав команды: уточняется
+
+Цель проекта: продуктивизировать решение по предсказанию стоимости квартир на основании данных, собранных с публичных сайтов.
